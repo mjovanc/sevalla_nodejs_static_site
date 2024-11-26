@@ -1,1 +1,1 @@
-# sevalla_rust_static_site
+# sevalla_nodejs_static_site
