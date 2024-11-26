@@ -1,0 +1,1 @@
+# sevalla_rust_static_site
